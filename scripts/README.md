@@ -2,11 +2,13 @@
 
 * neopixel.cfg - klipper config and gcode macros for controlling neopixel leds.
 
-## Base macro for shared information
+## neopixel.cfg
+
+### Base macro for shared information
 **[gcode_macro global_light_setting]**<br >
 Central place for storing the current state of the light strip
 
-## Fade out/in
+### Fade out/in
 Instead of just switching the light on and off i wanted it to fade on and off.
 
 **[gcode_macro fade_light]**<br >
@@ -17,7 +19,7 @@ Call: "fade_light red={redColor} green={greenColor} blue={blueColor} count=100 f
 **[delayed_gcode fade_light_delayed]**<br >
 The delayed gcode macro that does the actual fading.
 
-## Change color
+### Change color
 
 **[gcode_macro change_light]**<br >
 The control macro for changing the color.
