@@ -1,6 +1,6 @@
 # Klipper Config stuff
 
-In neopixel.cfg klipper config and gcode macros I use are documented.
+* neopixel.cfg - klipper config and gcode macros for controlling neopixel leds.
 
 ## Base macro for shared information
 **[gcode_macro global_light_setting]**<br >
