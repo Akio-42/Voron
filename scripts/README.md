@@ -6,7 +6,7 @@
 
 ### *Base macro for shared information*
 **[gcode_macro global_light_setting]**<br >
-Central place for storing the current state of the light strip
+Central place for storing the current state of the light strip.
 
 ### *Fade out/in*
 Instead of just switching the light on and off i wanted it to fade on and off.
