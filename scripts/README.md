@@ -2,6 +2,9 @@
 
 * neopixel.cfg - klipper config and gcode macros for controlling neopixel leds.
 
+## Hardware
+Neopixels used: BTF-LIGHTING 1M 100 LEDs/Pixels/m WS2812B RGB
+
 ## neopixel.cfg
 
 ### *Base macro for shared information*
