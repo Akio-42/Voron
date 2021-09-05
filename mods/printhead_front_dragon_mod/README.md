@@ -1,7 +1,7 @@
 # Optimized airflow for dragon hotend printhead front mod
 ## Status
 Work in progress...
-## Credits
+## Credit
 The Voron team for the original design of the printhead.
 Thank you guys for your awesome work!
 ## Print settings
