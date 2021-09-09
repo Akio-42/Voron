@@ -2,9 +2,8 @@
 
 ## Mods in this repository
 *
-* [Airflow optimization for printhead front for dragon hot end](/printhead_front_dragon_mod)
-* [SSR Din clip adapter for Meanwell psu](/psu_ssr_din_clip_adapter)
-
+* [Airflow optimization for printhead front for dragon hot end](../../../../tree/main/mods/printhead_front_dragon_mod)
+* [SSR Din clip adapter for Meanwell psu](../../../../tree/main/mods/psu_ssr_din_clip_adapter)
 
 ## List of mods used during my 2.4 build
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/42bios/corner_panel_clip_cable
