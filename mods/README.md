@@ -1,8 +1,9 @@
 # Voron mods
 
+## Mods in this repository
 * airflow optimization for printhead front for dragon hotend
 
-# List of mods used during my 2.4 build
+## List of mods used during my 2.4 build
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/42bios/corner_panel_clip_cable
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/deepfriedheroin/v2_bed_wagos
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber
@@ -15,7 +16,7 @@
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
 
 
-# Interesting mods
+## Interesting mods
 * https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bobbleheed/Magnetic_Panels
