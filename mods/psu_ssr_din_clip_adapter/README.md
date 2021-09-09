@@ -15,7 +15,7 @@ As stated in the Voron documentation:
 * 4x m4 screws
 * SSR DIN Clip (e.g. https://vonwange.com/product/ssr-din-clip/)
 ## Description
-I wanted to mount my psu more rigid to the din rail and found that two SSR Din clips would work great. The adapter is mounted directly on the Mean Well LRS-200-24 PSU on one side with two screws (middle two screws) and with 4 screws to the SSR Din clip. It its thickness allows that the SSR Din clip can be reached with fingers for easy mounting on the din rail. At least for me ;)
+I wanted to mount my psu more rigid to the din rail and found that two SSR Din clips would work great. The adapter is mounted directly on the Mean Well LRS-200-24 PSU on one side with two screws (middle two screws) and with 4 screws to the SSR Din clip. Its thickness allows that the SSR Din clip can be reached with fingers for easy mounting on the din rail. At least for me ;)
 
 ![SSR Din Clip Adapter](img/psu_ssr_din_clip_adapter_mod_img_1.png)
 ![SSR Din Clip Adapter](img/psu_ssr_din_clip_adapter_mod_img_2.png)
