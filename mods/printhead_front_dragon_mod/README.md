@@ -3,7 +3,7 @@
 Work in progress...
 ## Credit
 The Voron team for the original design of the printhead.
-Thank you guys for your awesome work!
+Thank you for your awesome work!
 ## Print settings
 As stated in the Voron documentation:
 * ABS

@@ -20,9 +20,11 @@
 ## Interesting mods
 * https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN
+* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Baltojikale/LoudOwl_aka_Stabby
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bobbleheed/Magnetic_Panels
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe
+* https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation/5015%20fan%20mod
 * https://github.com/11chrisadams11/Klipper-WS281x_LED_Status
