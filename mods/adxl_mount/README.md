@@ -21,7 +21,7 @@ As stated in the Voron documentation:
 ## Improvement
 Added a cable strain-relief
 ## Description
-I really liked the adxl mount posted in the voronuser_mods channel by 3DP MAMSIH. Thanks to Th3FalleN it was modified to have  heat-set inserts. It is definitely one of the really nice looking adxl mounts. I added the possibility to fix the cable to the mount, so it does not need to hang directly from the adxl pin headers.
+I really liked the adxl mount posted in the voronuser_mods channel by 3DP MAMSIH. Thanks to Th3FalleN it was modified to have  heat-set inserts. I added the possibility to fix the cable to the mount, so it does not need to hang directly from the adxl pin headers.
 
 ## Pictures
 ![Adxl mount](img/adxl_img_0.jpg)
