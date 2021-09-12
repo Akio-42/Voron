@@ -1,6 +1,6 @@
 # z belt cover mod
 ## Credit
-The Voron crew.
+Mod based on the design of the Voron crew.
 Thank you for your awesome work!
 ## Print settings
 As stated in the Voron documentation:
