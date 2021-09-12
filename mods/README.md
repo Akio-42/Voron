@@ -1,6 +1,7 @@
 # Voron mods
 
 ## Mods in this repository
+* [Adxl mount](../../../tree/main/mods/adxl_mount)
 * [Airflow optimization for printhead front for dragon hot end](../../../tree/main/mods/printhead_front_dragon_mod)
 * [SSR Din clip adapter for Meanwell psu](../../../tree/main/mods/psu_ssr_din_clip_adapter)
 
