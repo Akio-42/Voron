@@ -3,6 +3,7 @@
 ## Mods in this repository
 * [Adxl mount](../../../tree/main/mods/adxl_mount)
 * [Airflow optimization for printhead front for dragon hot end](../../../tree/main/mods/printhead_front_dragon_mod)
+* [Reverse bowden mounts](../../../tree/main/mods/bowden_mounts)
 * [SSR Din clip adapter for Meanwell psu](../../../tree/main/mods/psu_ssr_din_clip_adapter)
 * [Z belt cover mod](../../../tree/main/mods/z_belt_cover)
 
