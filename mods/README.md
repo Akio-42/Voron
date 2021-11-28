@@ -2,7 +2,6 @@
 
 ## Mods in this repository
 * [Adxl mount](../../../tree/main/mods/adxl_mount)
-* [Airflow optimization for printhead front for dragon hot end](../../../tree/main/mods/printhead_front_dragon_mod)
 * [Reverse bowden mounts](../../../tree/main/mods/bowden_mounts)
 * [SSR Din clip adapter for Meanwell psu](../../../tree/main/mods/psu_ssr_din_clip_adapter)
 * [Z belt cover mod](../../../tree/main/mods/z_belt_cover)
@@ -22,7 +21,8 @@
 
 ## Interesting mods
 * https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
-* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN
+* https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod
+* https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Baltojikale/LoudOwl_aka_Stabby
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bobbleheed/Magnetic_Panels
 * https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage
