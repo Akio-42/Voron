@@ -36,7 +36,7 @@ The files are named with v22 in the filename for the 2.2 version and v24 in the 
 &nbsp;<br/>
 
 ![z belt cover 2.2 bottom](img/z_belt_cover_mod_v22_img_1.png)
-*2.2 vesrion - bottom with path for routing cables*
+*2.2 version - bottom with path for routing cables*
 &nbsp;<br/>
 &nbsp;<br/>
 
@@ -46,7 +46,7 @@ The files are named with v22 in the filename for the 2.2 version and v24 in the 
 &nbsp;<br/>
 
 ![z belt cover 2.4 bottom](img/z_belt_cover_mod_v24_img_1.png)
-*2.4 vesrion - bottom with path for routing cables*
+*2.4 version - bottom with path for routing cables*
 
 ## Wire routing
 ![z belt cover](img/z_belt_cover_mod_cable_routing.png)
