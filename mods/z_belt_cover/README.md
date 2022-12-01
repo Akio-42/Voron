@@ -28,7 +28,7 @@ The files are named with v22 in the filename for the 2.2 version and v24 in the 
 ## Things to consider during installation
 > The modified z belt covers are thicker than the originals. You may have to move up your z-rails, if you installed them flush to the top of the original covers.
 
-> Make sure to constrain the cable you are routing through to the bottom, so it does not interfere with the z-belts. Use a zip tie or tape to hold the cable securely in position.
+> Make sure to constrain the cable you are routing through to the bottom, so it does not interfere with the z-belts. Use a zip tie or tape to hold the cable securely in position / away from your z-belts.
 ## Pictures
 ![z belt cover 2.2 top](img/z_belt_cover_mod_v22_img_0.png)
 *2.2 version - top*
@@ -50,7 +50,7 @@ The files are named with v22 in the filename for the 2.2 version and v24 in the 
 
 ## Wire routing
 ![z belt cover](img/z_belt_cover_mod_cable_routing.png)
-*The cable needs to wired like this below the cover*
+*The cable needs to be wired like this below the cover*
 &nbsp;<br/>
 &nbsp;<br/>
 
